@@ -1,0 +1,13 @@
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\bin\Debug\Rad.Profile.Tracker.exe.config
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\bin\Debug\Rad.Profile.Tracker.exe
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\bin\Debug\Rad.Profile.Tracker.pdb
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.csprojResolveAssemblyReference.cache
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\MainWindow.baml
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\MainWindow.g.cs
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\App.g.cs
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker_MarkupCompile.cache
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.g.resources
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.Properties.Resources.resources
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.csproj.GenerateResource.Cache
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.exe
+D:\Projects\Rad.Profile.Tracker\Rad.Profile.Tracker\Rad.Profile.Tracker\obj\Debug\Rad.Profile.Tracker.pdb
